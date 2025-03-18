@@ -1,6 +1,7 @@
 **free
 ctl-opt Dftactgrp(*no);
  // ***********************************************************
+ // Hello QUSER
  //   PROGRAM NAME - Payroll
  //   DESCRIPTION - Time reporting master file maintenance using
  //                 externally described workstation processing.
