@@ -1,5 +1,6 @@
 {
-    "build": {
-        "tgtCcsid": "37"
-    }
+  "build": {
+    "tgtCcsid": "37",
+    "objlib": "&data_library"
+  }
 }
